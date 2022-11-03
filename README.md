@@ -3,19 +3,19 @@
 A set of tools for 'The Godfather (2006) and The Godfather II (2009)". You may find that some of the tools in this program also work with other Visceral games, such as Dead Space.
 
 Please check the release page for downloads. For the compiled version, please download the "GodfatherTools_vX.XX.zip". <br/>
-https://github.com/Greavesy1899/GFToolkit/releases/
+https://github.com/Greavesy1899/VisceralToolkit/releases/
 
 For information about the game and this tool, pleae view the wiki: <br/>
-https://github.com/Greavesy1899/GFToolkit/wiki
+https://github.com/Greavesy1899/VisceralToolkit/wiki
 
 Toolkit Introduction: <br/>
-https://github.com/Greavesy1899/GFToolkit/wiki/Toolkit
+https://github.com/Greavesy1899/VisceralToolkit/wiki/Toolkit
 
 List of Known Resources: <br/>
-https://github.com/Greavesy1899/GFToolkit/wiki/Resource-Types
+https://github.com/Greavesy1899/VisceralToolkit/wiki/Resource-Types
 
 Supported Files/Resources <br/>
-https://github.com/Greavesy1899/GFToolkit/wiki/File-Resource-Type-Support
+https://github.com/Greavesy1899/VisceralToolkit/wiki/File-Resource-Type-Support
 
 Changelog: <br/>
-https://github.com/Greavesy1899/GFToolkit/wiki/Changelog
+https://github.com/Greavesy1899/VisceralToolkit/wiki/Changelog
