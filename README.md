@@ -1,3 +1,4 @@
+# PLEASE READ: THIS WAS INITIALLY A TOOL FOR GODFATHER ONLY. SOME INFO MAYBE WRONG FOR DEAD SPACE OR THE SIMPSONS.
 # Godfather Toolkit
 A set of tools for 'The Godfather (2006) and The Godfather II (2009)". You may find that some of the tools in this program also work with other Visceral games, such as Dead Space.
 
