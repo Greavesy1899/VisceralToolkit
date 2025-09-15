@@ -1,8 +1,15 @@
-# PLEASE READ: THIS WAS INITIALLY A TOOL FOR GODFATHER ONLY. SOME INFO MAYBE WRONG FOR DEAD SPACE OR THE SIMPSONS.
-# Godfather Toolkit
-A set of tools for 'The Godfather (2006) and The Godfather II (2009)". You may find that some of the tools in this program also work with other Visceral games, such as Dead Space.
+# Visceral Toolkit
 
-Please check the release page for downloads. For the compiled version, please download the "GodfatherTools_vX.XX.zip". <br/>
+A set of Work in Progress tool suite for games created by EA Redwood Shores/Visceral Games, including:
+- The Godfather
+- The Godfather: Don's Edition
+- The Godfather II
+- Dead Space
+- Dead Space 2
+- Dead Space 3
+- Dante's Inferno
+
+Please check the release page for downloads. For the compiled version, please download the "VisceralToolkit_vX.XX.zip". <br/>
 https://github.com/Greavesy1899/VisceralToolkit/releases/
 
 For information about the game and this tool, pleae view the wiki: <br/>
